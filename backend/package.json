@@ -1,0 +1,13 @@
+{
+  "name": "muslimeen-backend",
+  "version": "1.0.0",
+  "description": "Muslimeen App REST API - Node.js + SQLite Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["muslimeen", "islam", "api"],
+  "author": "Muslimeen Team",
+  "license": "ISC"
+}
